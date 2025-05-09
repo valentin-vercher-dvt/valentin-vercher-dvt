@@ -64,8 +64,4 @@ Si te apetece charlar sobre datos, código o proyectos colaborativos, aquí esto
 * 📧 [vvercherg@gmail.com](mailto:vvercherg@gmail.com)
 * ☎ +34 684 175 154
 
----
 
-## ¡Diviértete! 🎉
-
-Aquí puedes poner un GIF divertido:
