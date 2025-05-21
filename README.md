@@ -19,7 +19,6 @@ Soy graduado en Economía y actualmente curso un Máster en Big Data & Cloud en 
 * **Análisis de datos**: convertir datos crudos en historias con sentido. 📊
 * **Cloud Computing**: explorar herramientas de AWS, GCP y Docker para desplegar soluciones robustas. ☁️
 * **Automatización de procesos**: simplificar tareas repetitivas y ahorrar tiempo. 🤖
-* **Visualización**: crear dashboards claros en Tableau, Power BI o con librerías de Python. 🎨
 * **Aprendizaje continuo**: estar al día con nuevas tecnologías, frameworks y metodologías. 📚
 
 ---
